@@ -10,22 +10,23 @@
         "cf-typegen": "wrangler types"
     },
     "devDependencies": {
-        "@cloudflare/vitest-pool-workers": "0.8.61",
-        "@eslint/js": "9.33.0",
-        "@eslint/json": "0.13.1",
-        "@eslint/markdown": "7.1.0",
-        "eslint": "9.33.0",
-        "globals": "16.3.0",
-        "npm-check-updates": "18.0.2",
+        "@cloudflare/vitest-pool-workers": "0.10.0",
+        "@eslint/js": "9.38.0",
+        "@eslint/json": "0.13.2",
+        "@eslint/markdown": "7.5.0",
+        "@types/node": "24.9.1",
+        "eslint": "9.38.0",
+        "globals": "16.4.0",
+        "npm-check-updates": "19.1.1",
         "prettier": "3.6.2",
-        "typescript": "5.9.2",
-        "typescript-eslint": "8.39.0",
+        "typescript": "5.9.3",
+        "typescript-eslint": "8.46.2",
         "vitest": "3.2.4",
-        "wrangler": "4.28.1"
+        "wrangler": "4.45.0"
     },
     "dependencies": {
-        "@cloudflare/containers": "0.0.25",
-        "hono": "4.9.0"
+        "@cloudflare/containers": "0.0.28",
+        "hono": "4.10.2"
     },
     "cloudflare": {
         "label": "Containers Starter",
